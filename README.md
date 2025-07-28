@@ -96,8 +96,7 @@ Edit sections/components in src/components/ as desired.
 
 Tweak colors and fonts in tailwind.config.js and index.css.
 
-📝 License
-This project is MIT Licensed.
+
 
 🤝 Credits
 React
